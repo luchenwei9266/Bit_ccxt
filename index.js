@@ -1,4 +1,4 @@
-let ccxt = require('./ccxt')
+let ccxt = require('ccxt')
 
 let exchange = new ccxt.binance({
     apiKey: '',
